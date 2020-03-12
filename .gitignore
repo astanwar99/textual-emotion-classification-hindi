@@ -2,7 +2,7 @@
 emotions/
 dataset1.csv
 shuffledDataset.csv
-emotions.txt
+emotions.*
 
 
 .ipynb_checkpoints/
