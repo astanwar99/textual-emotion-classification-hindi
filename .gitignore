@@ -1,6 +1,7 @@
 #data
 emotions/
 dataset1.csv
+shuffledDataset.csv
 
 
 .ipynb_checkpoints/
