@@ -2,6 +2,7 @@
 emotions/
 dataset1.csv
 shuffledDataset.csv
+emotions.txt
 
 
 .ipynb_checkpoints/
